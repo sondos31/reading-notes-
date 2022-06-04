@@ -7,4 +7,4 @@
 <h2> Code 301 - Intermediate Software Development </h2>
 <h2> Code 401 - Advanced Software Development </h2>
 
-<h1>advanced software develpoment header</h1>
+<h1>advanced software develpoment</h1>
