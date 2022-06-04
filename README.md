@@ -6,5 +6,5 @@
 <h2> Code 201 - Foundations of Software Development </h2>
 <h2> Code 301 - Intermediate Software Development </h2>
 <h2> Code 401 - Advanced Software Development </h2>
-
+SQL practicing [try with me here!](https://sqlbolt.com/)
 <h1>advanced software develpoment</h1>
