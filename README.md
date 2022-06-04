@@ -1,4 +1,5 @@
 # reading-notes-
+[visit this link!](https://ryanstutorials.net/linuxtutorial/cheatsheet.php) for more info :)
 <h1>Code 401 - Advanced software Development</h1>
 <h1>Reading notes</h1>
 
